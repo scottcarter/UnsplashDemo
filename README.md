@@ -6,7 +6,7 @@ As the project evolved I decided that it could serve as a nice example of many i
 
 # Installation
 
-The project requires Alamofire and AlamofireImage which are installed as Pods.
+The project requires SwiftLint which is installed as a Pod.
 
 > pod install
 
