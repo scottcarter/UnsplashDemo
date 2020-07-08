@@ -1,8 +1,12 @@
+
 # About
 
 I created this project to experiment with [Unsplash](https://unsplash.com/).  They [offer an API](https://unsplash.com/developers) that is free to use for developers.    
 
 As the project evolved I decided that it could serve as a nice example of many iOS  features and patterns.
+
+<img src="https://github.com/scottcarter/UnsplashDemo/blob/master/UnsplashDemo_1.gif" width="315" height="600" />
+
 
 # Installation
 
