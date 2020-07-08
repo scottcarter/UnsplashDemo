@@ -4,6 +4,14 @@ I created this project to experiment with [Unsplash](https://unsplash.com/).  Th
 
 As the project evolved I decided that it could serve as a nice example of many iOS  features and patterns.
 
+# Installation
+
+The project requires Alamofire and AlamofireImage which are installed as Pods.
+
+> pod install
+
+You will also need to obtain an API key for Unsplash.  The key should be inserted in Constants.swift where the placeholder reads "Enter Unsplash API Key here".
+
 # Project feature examples
 
 ## Table View Controller implementation
